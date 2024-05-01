@@ -7,11 +7,12 @@
 ## Objetivo
 
 Fui o líder da equipe responsável pelo projeto que teve como objetivo implementar o SIEM InsightIDR para detecção de ataques cibernéticos em um ambiente produtivo. 
-O foco principal era ingerir e analisar logs de diversas fontes de eventos como: Active Directory, DNS, DHCP, AV/EDR, VPN, firewalls, cloud e banco de dados. Dessa forma, gerar telemetria de teste para imitar cenários de ataque do mundo real. Dessa forma, estabelecer e executar o processo de resposta a incidentes de segurança.
+O foco principal era ingerir e analisar logs de diversas fontes de eventos como: Active Directory, DNS, DHCP, AV/EDR, VPN, firewalls, cloud e banco de dados. Dessa forma, estabelecer e executar o processo de resposta a incidentes de segurança.
 
 ### Habilidades adquiridas
 
 - Compreensão avançada dos conceitos do SIEM e aplicação prática.
+- Experiência prática na implementação e suporte do InsightIDR.
 - Proficiência em análise e interpretação de logs de rede.
 - Capacidade de gerar e reconhecer assinaturas e padrões de ataques.
 - Conhecimento aprimorado de protocolos de rede e vulnerabilidades de segurança.
